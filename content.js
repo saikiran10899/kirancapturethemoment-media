@@ -1,0 +1,309 @@
+// Made automatically by Update Site - edit site-settings.json / My Work instead.
+window.PORTFOLIO = {
+ "settings": {
+  "company_name": "Kiran Capture The Moment",
+  "tagline": "Wedding Films & Photography",
+  "about": "Telugu & South Indian weddings, haldi, sangeet and pre-wedding stories, filmed and photographed across the US.",
+  "logo": "media/logo.png",
+  "hero_image": "media/wedding-teasers/sindhu-harsha-wedding-teaser-poster.jpg",
+  "intro_video": "media/intro.mp4",
+  "phone": "+1 682-862-5270",
+  "whatsapp": "+16828625270",
+  "email": "",
+  "youtube": "https://www.youtube.com/@Kiranweddingphotography3927",
+  "instagram": "https://www.instagram.com/kirancapturethemoment",
+  "website_footer": "Thank you for considering us for your celebration."
+ },
+ "categories": [
+  {
+   "name": "Wedding Teasers",
+   "slug": "wedding-teasers",
+   "cover": "media/wedding-teasers/sindhu-harsha-wedding-teaser-poster.jpg",
+   "items": [
+    {
+     "type": "video",
+     "title": "Sindhu & Harsha - Wedding Teaser",
+     "src": "media/wedding-teasers/sindhu-harsha-wedding-teaser.mp4",
+     "thumb": "media/wedding-teasers/sindhu-harsha-wedding-teaser-poster.jpg",
+     "w": 3840,
+     "h": 2160,
+     "duration": 60
+    }
+   ]
+  },
+  {
+   "name": "Wedding Films",
+   "slug": "wedding-films",
+   "cover": "https://i.ytimg.com/vi/seMRNOSAyMk/maxresdefault.jpg",
+   "items": [
+    {
+     "type": "embed",
+     "title": "Wedding Highlight Film",
+     "w": 16,
+     "h": 9,
+     "provider": "youtube",
+     "id": "seMRNOSAyMk",
+     "thumb": "https://i.ytimg.com/vi/seMRNOSAyMk/maxresdefault.jpg"
+    },
+    {
+     "type": "embed",
+     "title": "Sonali & Max",
+     "w": 16,
+     "h": 9,
+     "provider": "youtube",
+     "id": "Y6iVGHDL17U",
+     "thumb": "https://i.ytimg.com/vi/Y6iVGHDL17U/maxresdefault.jpg"
+    },
+    {
+     "type": "embed",
+     "title": "Anil Kumar & Dedeepya - Wedding Film",
+     "w": 16,
+     "h": 9,
+     "provider": "youtube",
+     "id": "iVsh9u3Rfro",
+     "thumb": "https://i.ytimg.com/vi/iVsh9u3Rfro/maxresdefault.jpg"
+    },
+    {
+     "type": "embed",
+     "title": "Shaarif & Jasra - Wedding Film",
+     "w": 16,
+     "h": 9,
+     "provider": "youtube",
+     "id": "lbvdjGpz6T8",
+     "thumb": "https://i.ytimg.com/vi/lbvdjGpz6T8/maxresdefault.jpg"
+    },
+    {
+     "type": "embed",
+     "title": "Sowmya & Devi Sachin - Wedding Film",
+     "w": 16,
+     "h": 9,
+     "provider": "youtube",
+     "id": "F4w7Lo17ThY",
+     "thumb": "https://i.ytimg.com/vi/F4w7Lo17ThY/maxresdefault.jpg"
+    },
+    {
+     "type": "embed",
+     "title": "Sai Priya & Venkat Sai - Wedding Film",
+     "w": 16,
+     "h": 9,
+     "provider": "youtube",
+     "id": "PUWHHw_LBa8",
+     "thumb": "https://i.ytimg.com/vi/PUWHHw_LBa8/maxresdefault.jpg"
+    },
+    {
+     "type": "embed",
+     "title": "Vyshnavi & Pawan Kalyan - Wedding Film",
+     "w": 16,
+     "h": 9,
+     "provider": "youtube",
+     "id": "exA8UJx_zJg",
+     "thumb": "https://i.ytimg.com/vi/exA8UJx_zJg/maxresdefault.jpg"
+    }
+   ]
+  },
+  {
+   "name": "Haldi",
+   "slug": "haldi",
+   "cover": "https://i.ytimg.com/vi/Im1I46CfnAk/maxresdefault.jpg",
+   "items": [
+    {
+     "type": "embed",
+     "title": "Sai Priya & Venkat Sai - Haldi",
+     "w": 16,
+     "h": 9,
+     "provider": "youtube",
+     "id": "Im1I46CfnAk",
+     "thumb": "https://i.ytimg.com/vi/Im1I46CfnAk/maxresdefault.jpg"
+    },
+    {
+     "type": "video",
+     "title": "Haldi Teaser",
+     "src": "media/haldi/haldi-teaser.mp4",
+     "thumb": "media/haldi/haldi-teaser-poster.jpg",
+     "w": 3840,
+     "h": 2160,
+     "duration": 134
+    },
+    {
+     "type": "embed",
+     "title": "Vyshnavi & Pawan Kalyan - Haldi",
+     "w": 16,
+     "h": 9,
+     "provider": "youtube",
+     "id": "umwwq--LbqY",
+     "thumb": "https://i.ytimg.com/vi/umwwq--LbqY/maxresdefault.jpg"
+    },
+    {
+     "type": "embed",
+     "title": "Nikki & Sree - Haldi",
+     "w": 16,
+     "h": 9,
+     "provider": "youtube",
+     "id": "LqPbI3gqDQc",
+     "thumb": "https://i.ytimg.com/vi/LqPbI3gqDQc/maxresdefault.jpg"
+    }
+   ]
+  },
+  {
+   "name": "Reception",
+   "slug": "reception",
+   "cover": "https://i.ytimg.com/vi/FDwk8grMW5g/maxresdefault.jpg",
+   "items": [
+    {
+     "type": "embed",
+     "title": "Reception - Cinematic Film",
+     "w": 16,
+     "h": 9,
+     "provider": "youtube",
+     "id": "FDwk8grMW5g",
+     "thumb": "https://i.ytimg.com/vi/FDwk8grMW5g/maxresdefault.jpg"
+    },
+    {
+     "type": "embed",
+     "title": "Manasa & Daniel - Reception",
+     "w": 16,
+     "h": 9,
+     "provider": "youtube",
+     "id": "9Ma6jcPihM4",
+     "thumb": "https://i.ytimg.com/vi/9Ma6jcPihM4/hqdefault.jpg"
+    }
+   ]
+  },
+  {
+   "name": "Pre-Wedding",
+   "slug": "pre-wedding",
+   "cover": "https://i.ytimg.com/vi/K4GL0pcZzjw/maxresdefault.jpg",
+   "items": [
+    {
+     "type": "embed",
+     "title": "Venkat & Sai Priya - Pre-Wedding",
+     "w": 16,
+     "h": 9,
+     "provider": "youtube",
+     "id": "K4GL0pcZzjw",
+     "thumb": "https://i.ytimg.com/vi/K4GL0pcZzjw/maxresdefault.jpg"
+    },
+    {
+     "type": "embed",
+     "title": "Naagesh & Chandana - Pre-Wedding",
+     "w": 16,
+     "h": 9,
+     "provider": "youtube",
+     "id": "EkoYdvMAuv4",
+     "thumb": "https://i.ytimg.com/vi/EkoYdvMAuv4/maxresdefault.jpg"
+    }
+   ]
+  },
+  {
+   "name": "Engagement",
+   "slug": "engagement",
+   "cover": "https://i.ytimg.com/vi/JHksAugfiSQ/maxresdefault.jpg",
+   "items": [
+    {
+     "type": "embed",
+     "title": "Sai & Sriya - Engagement",
+     "w": 16,
+     "h": 9,
+     "provider": "youtube",
+     "id": "JHksAugfiSQ",
+     "thumb": "https://i.ytimg.com/vi/JHksAugfiSQ/maxresdefault.jpg"
+    }
+   ]
+  },
+  {
+   "name": "Photos",
+   "slug": "photos",
+   "cover": "media/photos/01-thumb.jpg",
+   "items": [
+    {
+     "type": "photo",
+     "title": "01",
+     "src": "media/photos/01.jpg",
+     "thumb": "media/photos/01-thumb.jpg",
+     "w": 2400,
+     "h": 1800
+    }
+   ]
+  },
+  {
+   "name": "Sangeet",
+   "slug": "sangeet",
+   "cover": "https://i.ytimg.com/vi/a2Sw0JXjPA8/maxresdefault.jpg",
+   "items": [
+    {
+     "type": "embed",
+     "title": "Vamsi & Samhitha - Sangeet",
+     "w": 16,
+     "h": 9,
+     "provider": "youtube",
+     "id": "a2Sw0JXjPA8",
+     "thumb": "https://i.ytimg.com/vi/a2Sw0JXjPA8/maxresdefault.jpg"
+    }
+   ]
+  },
+  {
+   "name": "Half Saree",
+   "slug": "half-saree",
+   "cover": "https://i.ytimg.com/vi/KZ3SQMsr0bY/maxresdefault.jpg",
+   "items": [
+    {
+     "type": "embed",
+     "title": "Akshera's Half Saree Ceremony",
+     "w": 16,
+     "h": 9,
+     "provider": "youtube",
+     "id": "KZ3SQMsr0bY",
+     "thumb": "https://i.ytimg.com/vi/KZ3SQMsr0bY/maxresdefault.jpg"
+    }
+   ]
+  },
+  {
+   "name": "Dhoti Function",
+   "slug": "dhoti-function",
+   "cover": "https://i.ytimg.com/vi/knMZSAVe3Qw/maxresdefault.jpg",
+   "items": [
+    {
+     "type": "embed",
+     "title": "Sai Shamith's Dhoti Ceremony",
+     "w": 16,
+     "h": 9,
+     "provider": "youtube",
+     "id": "knMZSAVe3Qw",
+     "thumb": "https://i.ytimg.com/vi/knMZSAVe3Qw/maxresdefault.jpg"
+    }
+   ]
+  },
+  {
+   "name": "Birthday",
+   "slug": "birthday",
+   "cover": "https://i.ytimg.com/vi/_eoAf-PY7FE/maxresdefault.jpg",
+   "items": [
+    {
+     "type": "embed",
+     "title": "Sweet 16 Birthday",
+     "w": 16,
+     "h": 9,
+     "provider": "youtube",
+     "id": "_eoAf-PY7FE",
+     "thumb": "https://i.ytimg.com/vi/_eoAf-PY7FE/maxresdefault.jpg"
+    }
+   ]
+  },
+  {
+   "name": "Events",
+   "slug": "events",
+   "cover": "https://i.ytimg.com/vi/9bqT80TI_YI/maxresdefault.jpg",
+   "items": [
+    {
+     "type": "embed",
+     "title": "Hrithik Roshan - Holi Bash, Houston",
+     "w": 16,
+     "h": 9,
+     "provider": "youtube",
+     "id": "9bqT80TI_YI",
+     "thumb": "https://i.ytimg.com/vi/9bqT80TI_YI/maxresdefault.jpg"
+    }
+   ]
+  }
+ ]
+};
