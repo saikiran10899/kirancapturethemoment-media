@@ -12,7 +12,36 @@ window.PORTFOLIO = {
   "email": "bookings@kirancapturethemoment.com",
   "youtube": "https://www.youtube.com/@Kiranweddingphotography3927",
   "instagram": "https://www.instagram.com/kirancapturethemoment",
-  "website_footer": "Thank you for considering us for your celebration."
+  "website_footer": "Thank you for considering us for your celebration.",
+  "web3forms_key": "",
+  "booking_event_types": [
+   "Wedding",
+   "Haldi",
+   "Sangeet",
+   "Mehendi",
+   "Reception",
+   "Engagement",
+   "Pre-Wedding Shoot",
+   "Half Saree",
+   "Dhoti Function",
+   "Birthday",
+   "Other event"
+  ],
+  "booking_services": [
+   "Wedding",
+   "Photography",
+   "Videography / Cinematic film",
+   "Drone",
+   "Pre-wedding shoot"
+  ],
+  "booking_budgets": [
+   "Under $2,000",
+   "$2,000 – $4,000",
+   "$4,000 – $7,000",
+   "$7,000+",
+   "Not sure yet"
+  ],
+  "booking_reply_note": "We usually reply within 24 hours."
  },
  "categories": [
   {
