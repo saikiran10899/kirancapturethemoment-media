@@ -95,7 +95,9 @@
     document.title = cat.name + " · " + (S.company_name || "");
     var cards = cat.items.map(function (it, i) {
       var isVideo = it.type !== "photo";
-      return '<button class="' + cardClass(it) + '" data-i="' + i + '" aria-label="' + esc(it.title) + '">' +
+      // photos keep their own shape so collages and text are never cut off
+      var shape = it.type === "photo" && it.w && it.h ? ' style="aspect-ratio:' + it.w + "/" + it.h + '"' : "";
+      return '<button class="' + cardClass(it) + '"' + shape + ' data-i="' + i + '" aria-label="' + esc(it.title) + '">' +
         '<img src="' + esc(it.thumb) + '" alt="" loading="lazy" onload="this.classList.add(\'loaded\')">' +
         (isVideo ? '<span class="play"></span><span class="meta"><b>' + esc(it.title) + "</b><i>" + mmss(it.duration) + "</i></span>" : "") +
         "</button>";

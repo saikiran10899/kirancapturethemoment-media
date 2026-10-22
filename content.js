@@ -240,6 +240,70 @@ window.PORTFOLIO = {
      "thumb": "media/photos/01-thumb.jpg",
      "w": 2400,
      "h": 1800
+    },
+    {
+     "type": "photo",
+     "title": "02 Venkata Saikumar & Tejasri",
+     "src": "media/photos/02-venkata-saikumar-tejasri.jpg",
+     "thumb": "media/photos/02-venkata-saikumar-tejasri-thumb.jpg",
+     "w": 1920,
+     "h": 2400
+    },
+    {
+     "type": "photo",
+     "title": "03 Venkata Saikumar & Tejasri",
+     "src": "media/photos/03-venkata-saikumar-tejasri.jpg",
+     "thumb": "media/photos/03-venkata-saikumar-tejasri-thumb.jpg",
+     "w": 1920,
+     "h": 2400
+    },
+    {
+     "type": "photo",
+     "title": "04 Venkata Saikumar & Tejasri",
+     "src": "media/photos/04-venkata-saikumar-tejasri.jpg",
+     "thumb": "media/photos/04-venkata-saikumar-tejasri-thumb.jpg",
+     "w": 1920,
+     "h": 2400
+    },
+    {
+     "type": "photo",
+     "title": "05 Venkata Saikumar & Tejasri",
+     "src": "media/photos/05-venkata-saikumar-tejasri.jpg",
+     "thumb": "media/photos/05-venkata-saikumar-tejasri-thumb.jpg",
+     "w": 1920,
+     "h": 2400
+    },
+    {
+     "type": "photo",
+     "title": "06 Venkata Saikumar & Tejasri",
+     "src": "media/photos/06-venkata-saikumar-tejasri.jpg",
+     "thumb": "media/photos/06-venkata-saikumar-tejasri-thumb.jpg",
+     "w": 1920,
+     "h": 2400
+    },
+    {
+     "type": "photo",
+     "title": "07 Venkata Saikumar & Tejasri",
+     "src": "media/photos/07-venkata-saikumar-tejasri.jpg",
+     "thumb": "media/photos/07-venkata-saikumar-tejasri-thumb.jpg",
+     "w": 1920,
+     "h": 2400
+    },
+    {
+     "type": "photo",
+     "title": "08 Venkata Saikumar & Tejasri",
+     "src": "media/photos/08-venkata-saikumar-tejasri.jpg",
+     "thumb": "media/photos/08-venkata-saikumar-tejasri-thumb.jpg",
+     "w": 1920,
+     "h": 2400
+    },
+    {
+     "type": "photo",
+     "title": "09 Venkata Saikumar & Tejasri",
+     "src": "media/photos/09-venkata-saikumar-tejasri.jpg",
+     "thumb": "media/photos/09-venkata-saikumar-tejasri-thumb.jpg",
+     "w": 1920,
+     "h": 2400
     }
    ]
   },
