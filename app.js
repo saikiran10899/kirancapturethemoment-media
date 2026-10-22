@@ -105,7 +105,8 @@
     app.innerHTML =
       '<nav class="topbar"><a class="back" href="#/">All work</a><a class="brand-small" href="#/">' + (S.logo ? '<img src="' + esc(S.logo) + '" alt="' + esc(S.company_name) + '">' : esc(S.company_name)) + "</a></nav>" +
       '<div class="cat-head"><div class="eyebrow">' + count(cat) + "</div><h1>" + esc(cat.name) + "</h1></div>" +
-      '<div class="grid">' + cards + "</div>" + footer();
+      '<div class="grid' + (cat.items.every(function (it) { return it.type === "photo"; }) ? " masonry" : "") + '">' +
+      cards + "</div>" + footer();
     app.querySelectorAll(".card").forEach(function (el) {
       el.addEventListener("click", function () { openViewer(cat, +el.dataset.i); });
     });
