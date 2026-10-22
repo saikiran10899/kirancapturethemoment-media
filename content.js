@@ -9,7 +9,7 @@ window.PORTFOLIO = {
   "intro_video": "media/intro.mp4",
   "phone": "+1 682-862-5270",
   "whatsapp": "+16828625270",
-  "email": "",
+  "email": "bookings@kirancapturethemoment.com",
   "youtube": "https://www.youtube.com/@Kiranweddingphotography3927",
   "instagram": "https://www.instagram.com/kirancapturethemoment",
   "website_footer": "Thank you for considering us for your celebration."
