@@ -6,7 +6,7 @@
   // GitHub; ASSET_ROOT (set by that page) points every file path there.
   var ROOT = window.ASSET_ROOT || "";
   function at(p) { return p && ROOT && !/^https?:/.test(p) ? ROOT + p : p; }
-  ["logo", "hero_image", "intro_video"].forEach(function (k) { S[k] = at(S[k]); });
+  ["logo", "hero_image", "hero_video", "intro_video"].forEach(function (k) { S[k] = at(S[k]); });
   data.categories.forEach(function (c) {
     c.cover = at(c.cover);
     c.items.forEach(function (it) { it.src = at(it.src); it.thumb = at(it.thumb); });
@@ -75,6 +75,8 @@
     app.innerHTML =
       '<header class="hero">' +
         (S.hero_image ? '<div class="hero-bg" style="background-image:url(\'' + esc(S.hero_image) + '\')"></div>' : "") +
+        (S.hero_video && !(window.matchMedia && matchMedia("(prefers-reduced-motion: reduce)").matches)
+          ? '<video class="hero-video" src="' + esc(S.hero_video) + '" poster="' + esc(S.hero_image) + '" autoplay muted loop playsinline preload="auto" aria-hidden="true"></video>' : "") +
         '<div class="hero-inner">' +
           (S.logo ? '<img class="logo" src="' + esc(S.logo) + '" alt="">' : "") +
           '<div class="eyebrow">' + esc(S.tagline) + "</div>" +
