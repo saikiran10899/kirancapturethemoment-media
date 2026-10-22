@@ -41,7 +41,8 @@ window.PORTFOLIO = {
    "$7,000+",
    "Not sure yet"
   ],
-  "booking_reply_note": "We usually reply within 24 hours."
+  "booking_reply_note": "We usually reply within 24 hours.",
+  "formsubmit": true
  },
  "categories": [
   {

@@ -197,19 +197,27 @@
     }
     var subject = "Booking enquiry: " + d["Event type"] + " on " + d["Event date"] + " — " + d["Name"];
 
-    if (!S.web3forms_key) { // no form service connected yet: open the client's mail app instead
+    if (!S.web3forms_key && !S.formsubmit) { // no form service connected yet: open the client's mail app instead
       var body = Object.keys(d).filter(function (k) { return d[k]; }).map(function (k) { return k + ": " + d[k]; }).join("\n");
       location.href = "mailto:" + S.email + "?subject=" + encodeURIComponent(subject) + "&body=" + encodeURIComponent(body);
       return thanks(form, d);
     }
     btn.disabled = true;
     btn.lastChild.textContent = "Sending…";
-    var payload = { access_key: S.web3forms_key, subject: subject, from_name: d["Name"] + " (website)", replyto: email, botcheck: form.botcheck.checked };
+    // Web3Forms (with a key) or FormSubmit (free, no sign-up) emails the enquiry to our inbox
+    var url, payload;
+    if (S.web3forms_key) {
+      url = "https://api.web3forms.com/submit";
+      payload = { access_key: S.web3forms_key, subject: subject, from_name: d["Name"] + " (website)", replyto: email, botcheck: form.botcheck.checked };
+    } else {
+      url = "https://formsubmit.co/ajax/" + S.email;
+      payload = { _subject: subject, _replyto: email, _template: "table", _captcha: "false", _honey: form.botcheck.checked ? "bot" : "" };
+    }
     Object.keys(d).forEach(function (k) { if (d[k]) payload[k] = d[k]; });
-    fetch("https://api.web3forms.com/submit", {
+    fetch(url, {
       method: "POST", headers: { "Content-Type": "application/json", Accept: "application/json" }, body: JSON.stringify(payload)
     }).then(function (r) { return r.json(); }).then(function (res) {
-      if (!res.success) throw new Error(res.message);
+      if (!(res.success === true || res.success === "true")) throw new Error(res.message);
       thanks(form, d);
     }).catch(function () {
       btn.disabled = false;
