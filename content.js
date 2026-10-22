@@ -279,6 +279,15 @@ window.PORTFOLIO = {
      "provider": "youtube",
      "id": "knMZSAVe3Qw",
      "thumb": "https://i.ytimg.com/vi/knMZSAVe3Qw/maxresdefault.jpg"
+    },
+    {
+     "type": "embed",
+     "title": "Venkat's Dhoti Ceremony",
+     "w": 16,
+     "h": 9,
+     "provider": "youtube",
+     "id": "DWddAgYKWbU",
+     "thumb": "https://i.ytimg.com/vi/DWddAgYKWbU/maxresdefault.jpg"
     }
    ]
   },
