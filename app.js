@@ -6,7 +6,7 @@
   // GitHub; ASSET_ROOT (set by that page) points every file path there.
   var ROOT = window.ASSET_ROOT || "";
   function at(p) { return p && ROOT && !/^https?:/.test(p) ? ROOT + p : p; }
-  ["logo", "hero_image", "hero_video", "intro_video"].forEach(function (k) { S[k] = at(S[k]); });
+  ["logo", "hero_image", "hero_video", "intro_video", "about_photo"].forEach(function (k) { S[k] = at(S[k]); });
   data.categories.forEach(function (c) {
     c.cover = at(c.cover);
     c.items.forEach(function (it) { it.src = at(it.src); it.thumb = at(it.thumb); });
@@ -86,9 +86,24 @@
           contactChips() +
         "</div>" +
       "</header>" +
+      statsStrip() +
       '<main class="section"><div class="section-head"><h2>Our Work</h2><span>Tap a folder</span></div>' +
       (tiles ? '<div class="tiles">' + tiles + "</div>" : '<p class="empty">New work coming soon.</p>') +
-      "</main>" + footer();
+      "</main>" + aboutSection() + footer();
+  }
+
+  function statsStrip() {
+    if (!S.stats || !S.stats.length) return "";
+    return '<div class="stats">' + S.stats.map(function (st) {
+      return '<div class="stat"><strong>' + esc(st[0]) + "</strong><span>" + esc(st[1]) + "</span></div>";
+    }).join("") + "</div>";
+  }
+  function aboutSection() {
+    if (!S.about_text) return "";
+    return '<section class="about-kiran">' +
+      (S.about_photo ? '<div class="about-photo"><img src="' + esc(S.about_photo) + '" alt="' + esc(S.about_title || "") + '" loading="lazy"></div>' : "") +
+      '<div class="about-copy"><div class="eyebrow">About us</div><h2>' + esc(S.about_title || "") + "</h2>" +
+      "<p>" + esc(S.about_text) + "</p>" + bookButton("Check your date") + "</div></section>";
   }
 
   function cardClass(it) {

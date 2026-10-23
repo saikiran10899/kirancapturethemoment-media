@@ -43,7 +43,24 @@ window.PORTFOLIO = {
    "Not sure yet"
   ],
   "booking_reply_note": "We usually reply within 24 hours.",
-  "formsubmit": true
+  "formsubmit": true,
+  "about_photo": "media/about.jpg",
+  "about_title": "Meet Kiran",
+  "about_text": "Hi, I'm Kiran. For more than 12 years I've been filming and photographing Telugu and South Indian celebrations — from haldi mornings and sangeet nights to the big wedding day. I stay close to the moments that matter, quietly, so your film and photos feel like you. Wherever your celebration is in the US, I'd love to be there.",
+  "stats": [
+   [
+    "12+",
+    "Years behind the lens"
+   ],
+   [
+    "300+",
+    "Events captured"
+   ],
+   [
+    "200+",
+    "Weddings"
+   ]
+  ]
  },
  "categories": [
   {
