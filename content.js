@@ -66,8 +66,26 @@ window.PORTFOLIO = {
   {
    "name": "Wedding Teasers",
    "slug": "wedding-teasers",
-   "cover": "media/wedding-teasers/sindhu-harsha-wedding-teaser-poster.jpg",
+   "cover": "media/wedding-teasers/nandha-chandana-engagement-teaser-poster.jpg",
    "items": [
+    {
+     "type": "video",
+     "title": "Nandha & Chandana - Engagement Teaser",
+     "src": "media/wedding-teasers/nandha-chandana-engagement-teaser.mp4",
+     "thumb": "media/wedding-teasers/nandha-chandana-engagement-teaser-poster.jpg",
+     "w": 3840,
+     "h": 2160,
+     "duration": 49
+    },
+    {
+     "type": "video",
+     "title": "Nandha & Chandana - Wedding Teaser",
+     "src": "media/wedding-teasers/nandha-chandana-wedding-teaser.mp4",
+     "thumb": "media/wedding-teasers/nandha-chandana-wedding-teaser-poster.jpg",
+     "w": 1920,
+     "h": 1080,
+     "duration": 58
+    },
     {
      "type": "video",
      "title": "Sindhu & Harsha - Wedding Teaser",
