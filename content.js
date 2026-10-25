@@ -26,6 +26,7 @@ window.PORTFOLIO = {
    "Half Saree",
    "Dhoti Function",
    "Birthday",
+   "Seemantham / Baby Shower",
    "Other event"
   ],
   "booking_services": [
@@ -470,6 +471,22 @@ window.PORTFOLIO = {
      "provider": "youtube",
      "id": "mv-zDCjR1AE",
      "thumb": "https://i.ytimg.com/vi/mv-zDCjR1AE/maxresdefault.jpg"
+    }
+   ]
+  },
+  {
+   "name": "Seemantham (Baby Shower)",
+   "slug": "seemantham-baby-shower",
+   "cover": "https://i.ytimg.com/vi/DYNzoSVrXSw/maxresdefault.jpg",
+   "items": [
+    {
+     "type": "embed",
+     "title": "Bindhu's Seemantham - Highlights",
+     "w": 16,
+     "h": 9,
+     "provider": "youtube",
+     "id": "DYNzoSVrXSw",
+     "thumb": "https://i.ytimg.com/vi/DYNzoSVrXSw/maxresdefault.jpg"
     }
    ]
   },
