@@ -182,6 +182,15 @@ window.PORTFOLIO = {
      "provider": "youtube",
      "id": "aZBVgiUmClo",
      "thumb": "https://i.ytimg.com/vi/aZBVgiUmClo/maxresdefault.jpg"
+    },
+    {
+     "type": "embed",
+     "title": "Sonali & Max - Wedding Highlights",
+     "w": 16,
+     "h": 9,
+     "provider": "youtube",
+     "id": "g6TFvSlZZcE",
+     "thumb": "https://i.ytimg.com/vi/g6TFvSlZZcE/maxresdefault.jpg"
     }
    ]
   },
