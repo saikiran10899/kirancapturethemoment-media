@@ -101,7 +101,7 @@ window.PORTFOLIO = {
   {
    "name": "Wedding Films",
    "slug": "wedding-films",
-   "cover": "https://i.ytimg.com/vi/seMRNOSAyMk/maxresdefault.jpg",
+   "cover": "media/wedding-films/cover.jpg",
    "items": [
     {
      "type": "embed",
@@ -198,7 +198,7 @@ window.PORTFOLIO = {
   {
    "name": "Haldi",
    "slug": "haldi",
-   "cover": "https://i.ytimg.com/vi/Im1I46CfnAk/maxresdefault.jpg",
+   "cover": "media/haldi/cover.jpg",
    "items": [
     {
      "type": "embed",
@@ -241,7 +241,7 @@ window.PORTFOLIO = {
   {
    "name": "Reception",
    "slug": "reception",
-   "cover": "https://i.ytimg.com/vi/FDwk8grMW5g/maxresdefault.jpg",
+   "cover": "media/reception/cover.jpg",
    "items": [
     {
      "type": "embed",
@@ -266,7 +266,7 @@ window.PORTFOLIO = {
   {
    "name": "Pre-Wedding",
    "slug": "pre-wedding",
-   "cover": "https://i.ytimg.com/vi/K4GL0pcZzjw/maxresdefault.jpg",
+   "cover": "media/pre-wedding/cover.jpg",
    "items": [
     {
      "type": "embed",
@@ -291,7 +291,7 @@ window.PORTFOLIO = {
   {
    "name": "Engagement",
    "slug": "engagement",
-   "cover": "https://i.ytimg.com/vi/JHksAugfiSQ/maxresdefault.jpg",
+   "cover": "media/engagement/cover.jpg",
    "items": [
     {
      "type": "embed",
@@ -386,7 +386,7 @@ window.PORTFOLIO = {
   {
    "name": "Sangeet",
    "slug": "sangeet",
-   "cover": "https://i.ytimg.com/vi/a2Sw0JXjPA8/maxresdefault.jpg",
+   "cover": "media/sangeet/cover.jpg",
    "items": [
     {
      "type": "embed",
@@ -411,7 +411,7 @@ window.PORTFOLIO = {
   {
    "name": "Half Saree",
    "slug": "half-saree",
-   "cover": "https://i.ytimg.com/vi/KZ3SQMsr0bY/maxresdefault.jpg",
+   "cover": "media/half-saree/cover.jpg",
    "items": [
     {
      "type": "embed",
@@ -427,7 +427,7 @@ window.PORTFOLIO = {
   {
    "name": "Dhoti Function",
    "slug": "dhoti-function",
-   "cover": "https://i.ytimg.com/vi/knMZSAVe3Qw/maxresdefault.jpg",
+   "cover": "media/dhoti-function/cover.jpg",
    "items": [
     {
      "type": "embed",
@@ -452,7 +452,7 @@ window.PORTFOLIO = {
   {
    "name": "Birthday",
    "slug": "birthday",
-   "cover": "https://i.ytimg.com/vi/_eoAf-PY7FE/maxresdefault.jpg",
+   "cover": "media/birthday/cover.jpg",
    "items": [
     {
      "type": "embed",
@@ -477,7 +477,7 @@ window.PORTFOLIO = {
   {
    "name": "Seemantham (Baby Shower)",
    "slug": "seemantham-baby-shower",
-   "cover": "https://i.ytimg.com/vi/DYNzoSVrXSw/maxresdefault.jpg",
+   "cover": "media/seemantham-baby-shower/cover.jpg",
    "items": [
     {
      "type": "embed",
@@ -493,7 +493,7 @@ window.PORTFOLIO = {
   {
    "name": "Events",
    "slug": "events",
-   "cover": "https://i.ytimg.com/vi/9bqT80TI_YI/maxresdefault.jpg",
+   "cover": "media/events/cover.jpg",
    "items": [
     {
      "type": "embed",
