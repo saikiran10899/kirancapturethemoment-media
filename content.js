@@ -67,7 +67,7 @@ window.PORTFOLIO = {
   {
    "name": "Wedding Teasers",
    "slug": "wedding-teasers",
-   "cover": "media/wedding-teasers/nandha-chandana-engagement-teaser-poster.jpg",
+   "cover": "media/wedding-teasers/cover.jpg",
    "items": [
     {
      "type": "video",
