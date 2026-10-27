@@ -110,7 +110,7 @@ window.PORTFOLIO = {
      "h": 9,
      "provider": "youtube",
      "id": "seMRNOSAyMk",
-     "thumb": "media/wedding-films/seMRNOSAyMk-thumb.jpg"
+     "thumb": "https://i.ytimg.com/vi/seMRNOSAyMk/maxresdefault.jpg"
     },
     {
      "type": "embed",
@@ -119,7 +119,7 @@ window.PORTFOLIO = {
      "h": 9,
      "provider": "youtube",
      "id": "Y6iVGHDL17U",
-     "thumb": "media/wedding-films/Y6iVGHDL17U-thumb.jpg"
+     "thumb": "https://i.ytimg.com/vi/Y6iVGHDL17U/maxresdefault.jpg"
     },
     {
      "type": "embed",
@@ -128,7 +128,7 @@ window.PORTFOLIO = {
      "h": 9,
      "provider": "youtube",
      "id": "iVsh9u3Rfro",
-     "thumb": "media/wedding-films/iVsh9u3Rfro-thumb.jpg"
+     "thumb": "https://i.ytimg.com/vi/iVsh9u3Rfro/maxresdefault.jpg"
     },
     {
      "type": "embed",
@@ -137,7 +137,7 @@ window.PORTFOLIO = {
      "h": 9,
      "provider": "youtube",
      "id": "lbvdjGpz6T8",
-     "thumb": "media/wedding-films/lbvdjGpz6T8-thumb.jpg"
+     "thumb": "https://i.ytimg.com/vi/lbvdjGpz6T8/maxresdefault.jpg"
     },
     {
      "type": "embed",
@@ -146,7 +146,7 @@ window.PORTFOLIO = {
      "h": 9,
      "provider": "youtube",
      "id": "F4w7Lo17ThY",
-     "thumb": "media/wedding-films/F4w7Lo17ThY-thumb.jpg"
+     "thumb": "https://i.ytimg.com/vi/F4w7Lo17ThY/maxresdefault.jpg"
     },
     {
      "type": "embed",
@@ -155,7 +155,7 @@ window.PORTFOLIO = {
      "h": 9,
      "provider": "youtube",
      "id": "PUWHHw_LBa8",
-     "thumb": "media/wedding-films/PUWHHw_LBa8-thumb.jpg"
+     "thumb": "https://i.ytimg.com/vi/PUWHHw_LBa8/maxresdefault.jpg"
     },
     {
      "type": "embed",
@@ -164,7 +164,7 @@ window.PORTFOLIO = {
      "h": 9,
      "provider": "youtube",
      "id": "exA8UJx_zJg",
-     "thumb": "media/wedding-films/exA8UJx_zJg-thumb.jpg"
+     "thumb": "https://i.ytimg.com/vi/exA8UJx_zJg/maxresdefault.jpg"
     },
     {
      "type": "embed",
@@ -173,7 +173,7 @@ window.PORTFOLIO = {
      "h": 9,
      "provider": "youtube",
      "id": "I9bJI3mtaQg",
-     "thumb": "media/wedding-films/I9bJI3mtaQg-thumb.jpg"
+     "thumb": "https://i.ytimg.com/vi/I9bJI3mtaQg/maxresdefault.jpg"
     },
     {
      "type": "embed",
@@ -182,7 +182,7 @@ window.PORTFOLIO = {
      "h": 9,
      "provider": "youtube",
      "id": "aZBVgiUmClo",
-     "thumb": "media/wedding-films/aZBVgiUmClo-thumb.jpg"
+     "thumb": "https://i.ytimg.com/vi/aZBVgiUmClo/maxresdefault.jpg"
     },
     {
      "type": "embed",
@@ -191,7 +191,7 @@ window.PORTFOLIO = {
      "h": 9,
      "provider": "youtube",
      "id": "g6TFvSlZZcE",
-     "thumb": "media/wedding-films/g6TFvSlZZcE-thumb.jpg"
+     "thumb": "https://i.ytimg.com/vi/g6TFvSlZZcE/maxresdefault.jpg"
     }
    ]
   },
@@ -207,7 +207,7 @@ window.PORTFOLIO = {
      "h": 9,
      "provider": "youtube",
      "id": "Im1I46CfnAk",
-     "thumb": "media/haldi/Im1I46CfnAk-thumb.jpg"
+     "thumb": "https://i.ytimg.com/vi/Im1I46CfnAk/maxresdefault.jpg"
     },
     {
      "type": "video",
@@ -225,7 +225,7 @@ window.PORTFOLIO = {
      "h": 9,
      "provider": "youtube",
      "id": "umwwq--LbqY",
-     "thumb": "media/haldi/umwwq--LbqY-thumb.jpg"
+     "thumb": "https://i.ytimg.com/vi/umwwq--LbqY/maxresdefault.jpg"
     },
     {
      "type": "embed",
@@ -234,7 +234,7 @@ window.PORTFOLIO = {
      "h": 9,
      "provider": "youtube",
      "id": "LqPbI3gqDQc",
-     "thumb": "media/haldi/LqPbI3gqDQc-thumb.jpg"
+     "thumb": "https://i.ytimg.com/vi/LqPbI3gqDQc/maxresdefault.jpg"
     }
    ]
   },
@@ -250,7 +250,7 @@ window.PORTFOLIO = {
      "h": 9,
      "provider": "youtube",
      "id": "FDwk8grMW5g",
-     "thumb": "media/reception/FDwk8grMW5g-thumb.jpg"
+     "thumb": "https://i.ytimg.com/vi/FDwk8grMW5g/maxresdefault.jpg"
     },
     {
      "type": "embed",
@@ -259,7 +259,7 @@ window.PORTFOLIO = {
      "h": 9,
      "provider": "youtube",
      "id": "9Ma6jcPihM4",
-     "thumb": "media/reception/9Ma6jcPihM4-thumb.jpg"
+     "thumb": "https://i.ytimg.com/vi/9Ma6jcPihM4/hqdefault.jpg"
     }
    ]
   },
@@ -275,7 +275,7 @@ window.PORTFOLIO = {
      "h": 9,
      "provider": "youtube",
      "id": "K4GL0pcZzjw",
-     "thumb": "media/pre-wedding/K4GL0pcZzjw-thumb.jpg"
+     "thumb": "https://i.ytimg.com/vi/K4GL0pcZzjw/maxresdefault.jpg"
     },
     {
      "type": "embed",
@@ -284,7 +284,7 @@ window.PORTFOLIO = {
      "h": 9,
      "provider": "youtube",
      "id": "EkoYdvMAuv4",
-     "thumb": "media/pre-wedding/EkoYdvMAuv4-thumb.jpg"
+     "thumb": "https://i.ytimg.com/vi/EkoYdvMAuv4/maxresdefault.jpg"
     }
    ]
   },
@@ -300,7 +300,7 @@ window.PORTFOLIO = {
      "h": 9,
      "provider": "youtube",
      "id": "JHksAugfiSQ",
-     "thumb": "media/engagement/JHksAugfiSQ-thumb.jpg"
+     "thumb": "https://i.ytimg.com/vi/JHksAugfiSQ/maxresdefault.jpg"
     }
    ]
   },
@@ -395,7 +395,7 @@ window.PORTFOLIO = {
      "h": 9,
      "provider": "youtube",
      "id": "a2Sw0JXjPA8",
-     "thumb": "media/sangeet/a2Sw0JXjPA8-thumb.jpg"
+     "thumb": "https://i.ytimg.com/vi/a2Sw0JXjPA8/maxresdefault.jpg"
     },
     {
      "type": "embed",
@@ -404,7 +404,7 @@ window.PORTFOLIO = {
      "h": 9,
      "provider": "youtube",
      "id": "rHROM7RgQ6k",
-     "thumb": "media/sangeet/rHROM7RgQ6k-thumb.jpg"
+     "thumb": "https://i.ytimg.com/vi/rHROM7RgQ6k/maxresdefault.jpg"
     }
    ]
   },
@@ -420,7 +420,7 @@ window.PORTFOLIO = {
      "h": 9,
      "provider": "youtube",
      "id": "KZ3SQMsr0bY",
-     "thumb": "media/half-saree/KZ3SQMsr0bY-thumb.jpg"
+     "thumb": "https://i.ytimg.com/vi/KZ3SQMsr0bY/maxresdefault.jpg"
     }
    ]
   },
@@ -436,7 +436,7 @@ window.PORTFOLIO = {
      "h": 9,
      "provider": "youtube",
      "id": "knMZSAVe3Qw",
-     "thumb": "media/dhoti-function/knMZSAVe3Qw-thumb.jpg"
+     "thumb": "https://i.ytimg.com/vi/knMZSAVe3Qw/maxresdefault.jpg"
     },
     {
      "type": "embed",
@@ -445,7 +445,7 @@ window.PORTFOLIO = {
      "h": 9,
      "provider": "youtube",
      "id": "DWddAgYKWbU",
-     "thumb": "media/dhoti-function/DWddAgYKWbU-thumb.jpg"
+     "thumb": "https://i.ytimg.com/vi/DWddAgYKWbU/maxresdefault.jpg"
     }
    ]
   },
@@ -461,7 +461,7 @@ window.PORTFOLIO = {
      "h": 9,
      "provider": "youtube",
      "id": "_eoAf-PY7FE",
-     "thumb": "media/birthday/_eoAf-PY7FE-thumb.jpg"
+     "thumb": "https://i.ytimg.com/vi/_eoAf-PY7FE/maxresdefault.jpg"
     },
     {
      "type": "embed",
@@ -470,7 +470,7 @@ window.PORTFOLIO = {
      "h": 9,
      "provider": "youtube",
      "id": "mv-zDCjR1AE",
-     "thumb": "media/birthday/mv-zDCjR1AE-thumb.jpg"
+     "thumb": "https://i.ytimg.com/vi/mv-zDCjR1AE/maxresdefault.jpg"
     }
    ]
   },
@@ -486,7 +486,7 @@ window.PORTFOLIO = {
      "h": 9,
      "provider": "youtube",
      "id": "DYNzoSVrXSw",
-     "thumb": "media/seemantham-baby-shower/DYNzoSVrXSw-thumb.jpg"
+     "thumb": "https://i.ytimg.com/vi/DYNzoSVrXSw/maxresdefault.jpg"
     }
    ]
   },
@@ -502,7 +502,7 @@ window.PORTFOLIO = {
      "h": 9,
      "provider": "youtube",
      "id": "9bqT80TI_YI",
-     "thumb": "media/events/9bqT80TI_YI-thumb.jpg"
+     "thumb": "https://i.ytimg.com/vi/9bqT80TI_YI/maxresdefault.jpg"
     }
    ]
   }
